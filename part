@@ -1,0 +1,41 @@
+reviewParticipantRole options
+    self
+    manager
+    peer
+    report
+    customer
+reviewCycle
+    title
+    startDate
+    endDate
+    state
+    description optional
+performanceReview
+    reviewCycle
+    employee
+    reviewer
+    reviewParticipantRole
+    reviewDate optional
+    overallScore realNumber optional
+    state
+    summary optional
+    unique reviewCycle employee reviewer
+reviewCriterion
+    title
+    code
+    description optional
+    unique code
+reviewRating
+    performanceReview
+    reviewCriterion
+    score realNumber
+    feedback optional
+    unique performanceReview reviewCriterion
+developmentAction
+    performanceReview
+    title
+    responsiblePerson optional
+    dueDate optional
+    completedDate optional
+    state
+    description optional
