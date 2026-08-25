@@ -18,7 +18,7 @@ performanceReview
     reviewDate optional
     overallScore realNumber optional
     state
-    summary optional
+    description optional
     unique reviewCycle employee reviewer
 reviewCriterion
     title

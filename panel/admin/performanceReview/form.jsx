@@ -44,8 +44,8 @@ const inputs = <>
         property='overallScore'
     />
     <LongText
-        placeholder='performanceReviewsSummary'
-        property='summary'
+        placeholder='coreDescription'
+        property='description'
     />
 </>
 
