@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: '360',
+        path: '/performanceReviews',
         title: 'performanceReviewsPerformanceReviews',
     },
 ]
