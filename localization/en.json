@@ -1,0 +1,20 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "cycle": "Review cycle",
+        "cycles": "Review cycles",
+        "description": "Description",
+        "employee": "Employee",
+        "endDate": "End date",
+        "overallScore": "Overall score",
+        "performanceReviews": "Performance reviews",
+        "reviewDate": "Review date",
+        "reviewer": "Reviewer",
+        "reviewerRole": "Reviewer role",
+        "reviews": "Reviews",
+        "startDate": "Start date",
+        "state": "State"
+    },
+    "site": {}
+}
