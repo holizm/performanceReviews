@@ -2,16 +2,11 @@
     "common": {
         "cycle": "دوره ارزیابی",
         "cycles": "دوره‌های ارزیابی",
-        "description": "توضیحات",
-        "employee": "کارمند",
-        "endDate": "تاریخ پایان",
         "overallScore": "امتیاز کلی",
         "performanceReviews": "ارزیابی عملکرد",
         "reviewDate": "تاریخ ارزیابی",
         "reviewer": "ارزیاب",
         "reviewerRole": "نقش ارزیاب",
-        "reviews": "ارزیابی‌ها",
-        "startDate": "تاریخ شروع",
-        "state": "مرحله"
+        "reviews": "ارزیابی‌ها"
     }
 }
