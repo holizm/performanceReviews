@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "cycle": "دوره ارزیابی",
         "cycles": "دوره‌های ارزیابی",
         "description": "توضیحات",
@@ -15,6 +13,5 @@
         "reviews": "ارزیابی‌ها",
         "startDate": "تاریخ شروع",
         "state": "مرحله"
-    },
-    "site": {}
+    }
 }
