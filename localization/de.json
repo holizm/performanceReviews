@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Beurteilungszyklus",
+        "cycles": "Beurteilungszyklen",
+        "overallScore": "Gesamtbewertung",
+        "performanceReviews": "Leistungsbeurteilungen",
+        "reviewDate": "Beurteilungsdatum",
+        "reviewer": "Beurteiler",
+        "reviewerRole": "Rolle des Beurteilers",
+        "reviews": "Beurteilungen"
+    }
+}

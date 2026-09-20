@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Цикл оценки",
+        "cycles": "Циклы оценки",
+        "overallScore": "Общая оценка",
+        "performanceReviews": "Оценки эффективности",
+        "reviewDate": "Дата оценки",
+        "reviewer": "Оценивающий",
+        "reviewerRole": "Роль оценивающего",
+        "reviews": "Оценки"
+    }
+}

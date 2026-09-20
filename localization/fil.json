@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Siklo ng pagsusuri",
+        "cycles": "Mga siklo ng pagsusuri",
+        "overallScore": "Kabuuang marka",
+        "performanceReviews": "Mga pagsusuri sa pagganap",
+        "reviewDate": "Petsa ng pagsusuri",
+        "reviewer": "Tagasuri",
+        "reviewerRole": "Tungkulin ng tagasuri",
+        "reviews": "Mga pagsusuri"
+    }
+}

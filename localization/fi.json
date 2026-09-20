@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Arviointijakso",
+        "cycles": "Arviointijaksot",
+        "overallScore": "Kokonaispistemäärä",
+        "performanceReviews": "Suoritusarvioinnit",
+        "reviewDate": "Arviointipäivä",
+        "reviewer": "Arvioija",
+        "reviewerRole": "Arvioijan rooli",
+        "reviews": "Arvioinnit"
+    }
+}

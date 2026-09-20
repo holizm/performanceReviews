@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Ciclo di valutazione",
+        "cycles": "Cicli di valutazione",
+        "overallScore": "Punteggio complessivo",
+        "performanceReviews": "Valutazioni delle prestazioni",
+        "reviewDate": "Data della valutazione",
+        "reviewer": "Valutatore",
+        "reviewerRole": "Ruolo del valutatore",
+        "reviews": "Valutazioni"
+    }
+}

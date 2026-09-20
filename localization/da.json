@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Vurderingscyklus",
+        "cycles": "Vurderingscyklusser",
+        "overallScore": "Samlet score",
+        "performanceReviews": "Præstationsvurderinger",
+        "reviewDate": "Vurderingsdato",
+        "reviewer": "Bedømmer",
+        "reviewerRole": "Bedømmerens rolle",
+        "reviews": "Vurderinger"
+    }
+}

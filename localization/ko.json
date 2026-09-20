@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "평가 주기",
+        "cycles": "평가 주기",
+        "overallScore": "종합 점수",
+        "performanceReviews": "성과 평가",
+        "reviewDate": "평가일",
+        "reviewer": "평가자",
+        "reviewerRole": "평가자 역할",
+        "reviews": "평가"
+    }
+}

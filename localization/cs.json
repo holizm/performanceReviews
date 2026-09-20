@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Hodnoticí cyklus",
+        "cycles": "Hodnoticí cykly",
+        "overallScore": "Celkové skóre",
+        "performanceReviews": "Hodnocení výkonu",
+        "reviewDate": "Datum hodnocení",
+        "reviewer": "Hodnotitel",
+        "reviewerRole": "Role hodnotitele",
+        "reviews": "Hodnocení"
+    }
+}

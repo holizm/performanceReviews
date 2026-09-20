@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "評価サイクル",
+        "cycles": "評価サイクル",
+        "overallScore": "総合スコア",
+        "performanceReviews": "業績評価",
+        "reviewDate": "評価日",
+        "reviewer": "評価者",
+        "reviewerRole": "評価者の役割",
+        "reviews": "評価"
+    }
+}

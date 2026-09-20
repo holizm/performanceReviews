@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "ಮೌಲ್ಯಮಾಪನ ಚಕ್ರ",
+        "cycles": "ಮೌಲ್ಯಮಾಪನ ಚಕ್ರಗಳು",
+        "overallScore": "ಒಟ್ಟಾರೆ ಅಂಕ",
+        "performanceReviews": "ಕಾರ್ಯಕ್ಷಮತೆ ಮೌಲ್ಯಮಾಪನಗಳು",
+        "reviewDate": "ಮೌಲ್ಯಮಾಪನ ದಿನಾಂಕ",
+        "reviewer": "ಮೌಲ್ಯಮಾಪಕರು",
+        "reviewerRole": "ಮೌಲ್ಯಮಾಪಕರ ಪಾತ್ರ",
+        "reviews": "ಮೌಲ್ಯಮಾಪನಗಳು"
+    }
+}

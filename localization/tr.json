@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Değerlendirme dönemi",
+        "cycles": "Değerlendirme dönemleri",
+        "overallScore": "Genel puan",
+        "performanceReviews": "Performans değerlendirmeleri",
+        "reviewDate": "Değerlendirme tarihi",
+        "reviewer": "Değerlendiren",
+        "reviewerRole": "Değerlendirenin rolü",
+        "reviews": "Değerlendirmeler"
+    }
+}

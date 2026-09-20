@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "考核周期",
+        "cycles": "考核周期",
+        "overallScore": "综合评分",
+        "performanceReviews": "绩效考核",
+        "reviewDate": "考核日期",
+        "reviewer": "考核人",
+        "reviewerRole": "考核人角色",
+        "reviews": "考核"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "รอบการประเมิน",
+        "cycles": "รอบการประเมิน",
+        "overallScore": "คะแนนรวม",
+        "performanceReviews": "การประเมินผลการปฏิบัติงาน",
+        "reviewDate": "วันที่ประเมิน",
+        "reviewer": "ผู้ประเมิน",
+        "reviewerRole": "บทบาทของผู้ประเมิน",
+        "reviews": "การประเมิน"
+    }
+}

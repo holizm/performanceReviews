@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "मूल्यांकन चक्र",
+        "cycles": "मूल्यांकन चक्र",
+        "overallScore": "समग्र स्कोर",
+        "performanceReviews": "प्रदर्शन मूल्यांकन",
+        "reviewDate": "मूल्यांकन तिथि",
+        "reviewer": "मूल्यांकनकर्ता",
+        "reviewerRole": "मूल्यांकनकर्ता की भूमिका",
+        "reviews": "मूल्यांकन"
+    }
+}

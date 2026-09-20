@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Beoordelingsiklus",
+        "cycles": "Beoordelingsiklusse",
+        "overallScore": "Algehele telling",
+        "performanceReviews": "Prestasiebeoordelings",
+        "reviewDate": "Beoordelingsdatum",
+        "reviewer": "Beoordelaar",
+        "reviewerRole": "Rol van beoordelaar",
+        "reviews": "Beoordelings"
+    }
+}

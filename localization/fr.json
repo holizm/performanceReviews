@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Cycle d’évaluation",
+        "cycles": "Cycles d’évaluation",
+        "overallScore": "Note globale",
+        "performanceReviews": "Évaluations des performances",
+        "reviewDate": "Date de l’évaluation",
+        "reviewer": "Évaluateur",
+        "reviewerRole": "Rôle de l’évaluateur",
+        "reviews": "Évaluations"
+    }
+}

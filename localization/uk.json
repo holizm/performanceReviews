@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Цикл оцінювання",
+        "cycles": "Цикли оцінювання",
+        "overallScore": "Загальна оцінка",
+        "performanceReviews": "Оцінювання ефективності",
+        "reviewDate": "Дата оцінювання",
+        "reviewer": "Оцінювач",
+        "reviewerRole": "Роль оцінювача",
+        "reviews": "Оцінювання"
+    }
+}

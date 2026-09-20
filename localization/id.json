@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Siklus penilaian",
+        "cycles": "Siklus penilaian",
+        "overallScore": "Nilai keseluruhan",
+        "performanceReviews": "Penilaian kinerja",
+        "reviewDate": "Tanggal penilaian",
+        "reviewer": "Penilai",
+        "reviewerRole": "Peran penilai",
+        "reviews": "Penilaian"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "የግምገማ ዙር",
+        "cycles": "የግምገማ ዙሮች",
+        "overallScore": "ጠቅላላ ውጤት",
+        "performanceReviews": "የአፈጻጸም ግምገማዎች",
+        "reviewDate": "የግምገማ ቀን",
+        "reviewer": "ገምጋሚ",
+        "reviewerRole": "የገምጋሚ ሚና",
+        "reviews": "ግምገማዎች"
+    }
+}

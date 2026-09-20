@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "ਮੁਲਾਂਕਣ ਚੱਕਰ",
+        "cycles": "ਮੁਲਾਂਕਣ ਚੱਕਰ",
+        "overallScore": "ਕੁੱਲ ਸਕੋਰ",
+        "performanceReviews": "ਕਾਰਗੁਜ਼ਾਰੀ ਮੁਲਾਂਕਣ",
+        "reviewDate": "ਮੁਲਾਂਕਣ ਦੀ ਮਿਤੀ",
+        "reviewer": "ਮੁਲਾਂਕਣਕਰਤਾ",
+        "reviewerRole": "ਮੁਲਾਂਕਣਕਰਤਾ ਦੀ ਭੂਮਿਕਾ",
+        "reviews": "ਮੁਲਾਂਕਣ"
+    }
+}

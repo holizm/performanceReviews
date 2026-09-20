@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Chu kỳ đánh giá",
+        "cycles": "Các chu kỳ đánh giá",
+        "overallScore": "Điểm tổng thể",
+        "performanceReviews": "Đánh giá hiệu suất",
+        "reviewDate": "Ngày đánh giá",
+        "reviewer": "Người đánh giá",
+        "reviewerRole": "Vai trò người đánh giá",
+        "reviews": "Các đánh giá"
+    }
+}

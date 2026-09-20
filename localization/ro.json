@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Ciclu de evaluare",
+        "cycles": "Cicluri de evaluare",
+        "overallScore": "Scor general",
+        "performanceReviews": "Evaluări de performanță",
+        "reviewDate": "Data evaluării",
+        "reviewer": "Evaluator",
+        "reviewerRole": "Rolul evaluatorului",
+        "reviews": "Evaluări"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "دورة التقييم",
+        "cycles": "دورات التقييم",
+        "overallScore": "التقييم الإجمالي",
+        "performanceReviews": "تقييمات الأداء",
+        "reviewDate": "تاريخ التقييم",
+        "reviewer": "المقيّم",
+        "reviewerRole": "دور المقيّم",
+        "reviews": "التقييمات"
+    }
+}

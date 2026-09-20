@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "מחזור הערכה",
+        "cycles": "מחזורי הערכה",
+        "overallScore": "ציון כולל",
+        "performanceReviews": "הערכות ביצועים",
+        "reviewDate": "תאריך הערכה",
+        "reviewer": "מעריך",
+        "reviewerRole": "תפקיד המעריך",
+        "reviews": "הערכות"
+    }
+}

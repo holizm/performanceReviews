@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Értékelési ciklus",
+        "cycles": "Értékelési ciklusok",
+        "overallScore": "Összpontszám",
+        "performanceReviews": "Teljesítményértékelések",
+        "reviewDate": "Értékelés dátuma",
+        "reviewer": "Értékelő",
+        "reviewerRole": "Értékelő szerepe",
+        "reviews": "Értékelések"
+    }
+}

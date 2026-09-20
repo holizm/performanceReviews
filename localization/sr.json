@@ -1,0 +1,12 @@
+{
+    "common": {
+        "cycle": "Цикл оцењивања",
+        "cycles": "Циклуси оцењивања",
+        "overallScore": "Укупна оцена",
+        "performanceReviews": "Оцене радног учинка",
+        "reviewDate": "Датум оцењивања",
+        "reviewer": "Оцењивач",
+        "reviewerRole": "Улога оцењивача",
+        "reviews": "Оцене"
+    }
+}
