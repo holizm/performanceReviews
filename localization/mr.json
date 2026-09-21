@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "मूल्यांकन चक्र",
-        "cycles": "मूल्यांकन चक्रे",
+        "developmentAction": "विकास कृती",
+        "developmentActions": "विकास कृती",
         "overallScore": "एकूण गुण",
+        "performanceReview": "कामगिरी पुनरावलोकन",
         "performanceReviews": "कामगिरी मूल्यांकने",
+        "reviewCriteria": "पुनरावलोकन निकष",
+        "reviewCriterion": "पुनरावलोकन निकष",
+        "reviewCycle": "मूल्यांकन चक्र",
+        "reviewCycles": "मूल्यांकन चक्रे",
         "reviewDate": "मूल्यांकनाची तारीख",
+        "reviewRating": "पुनरावलोकन रेटिंग",
+        "reviewRatings": "पुनरावलोकन रेटिंग",
         "reviewer": "मूल्यांकनकर्ता",
-        "reviewerRole": "मूल्यांकनकर्त्याची भूमिका",
-        "reviews": "मूल्यांकने"
+        "reviewerRole": "मूल्यांकनकर्त्याची भूमिका"
     }
 }

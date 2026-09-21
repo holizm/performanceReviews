@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Kitaran penilaian",
-        "cycles": "Kitaran penilaian",
+        "developmentAction": "Tindakan pembangunan",
+        "developmentActions": "Tindakan pembangunan",
         "overallScore": "Skor keseluruhan",
+        "performanceReview": "Semakan prestasi",
         "performanceReviews": "Penilaian prestasi",
+        "reviewCriteria": "Kriteria semakan",
+        "reviewCriterion": "Kriteria semakan",
+        "reviewCycle": "Kitaran penilaian",
+        "reviewCycles": "Kitaran penilaian",
         "reviewDate": "Tarikh penilaian",
+        "reviewRating": "Penarafan semakan",
+        "reviewRatings": "Penarafan semakan",
         "reviewer": "Penilai",
-        "reviewerRole": "Peranan penilai",
-        "reviews": "Penilaian"
+        "reviewerRole": "Peranan penilai"
     }
 }

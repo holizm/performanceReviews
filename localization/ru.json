@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Цикл оценки",
-        "cycles": "Циклы оценки",
+        "developmentAction": "Действие по развитию",
+        "developmentActions": "Действия по развитию",
         "overallScore": "Общая оценка",
+        "performanceReview": "Оценка эффективности",
         "performanceReviews": "Оценки эффективности",
+        "reviewCriteria": "Критерии оценки",
+        "reviewCriterion": "Критерий оценки",
+        "reviewCycle": "Цикл оценки",
+        "reviewCycles": "Циклы оценки",
         "reviewDate": "Дата оценки",
+        "reviewRating": "Рейтинг оценки",
+        "reviewRatings": "Рейтинги оценки",
         "reviewer": "Оценивающий",
-        "reviewerRole": "Роль оценивающего",
-        "reviews": "Оценки"
+        "reviewerRole": "Роль оценивающего"
     }
 }

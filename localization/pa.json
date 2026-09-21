@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "ਮੁਲਾਂਕਣ ਚੱਕਰ",
-        "cycles": "ਮੁਲਾਂਕਣ ਚੱਕਰ",
+        "developmentAction": "ਵਿਕਾਸ ਕਾਰਵਾਈ",
+        "developmentActions": "ਵਿਕਾਸ ਕਾਰਵਾਈਆਂ",
         "overallScore": "ਕੁੱਲ ਸਕੋਰ",
+        "performanceReview": "ਕਾਰਗੁਜ਼ਾਰੀ ਸਮੀਖਿਆ",
         "performanceReviews": "ਕਾਰਗੁਜ਼ਾਰੀ ਮੁਲਾਂਕਣ",
+        "reviewCriteria": "ਸਮੀਖਿਆ ਮਾਪਦੰਡ",
+        "reviewCriterion": "ਸਮੀਖਿਆ ਮਾਪਦੰਡ",
+        "reviewCycle": "ਮੁਲਾਂਕਣ ਚੱਕਰ",
+        "reviewCycles": "ਮੁਲਾਂਕਣ ਚੱਕਰ",
         "reviewDate": "ਮੁਲਾਂਕਣ ਦੀ ਮਿਤੀ",
+        "reviewRating": "ਸਮੀਖਿਆ ਰੇਟਿੰਗ",
+        "reviewRatings": "ਸਮੀਖਿਆ ਰੇਟਿੰਗਾਂ",
         "reviewer": "ਮੁਲਾਂਕਣਕਰਤਾ",
-        "reviewerRole": "ਮੁਲਾਂਕਣਕਰਤਾ ਦੀ ਭੂਮਿਕਾ",
-        "reviews": "ਮੁਲਾਂਕਣ"
+        "reviewerRole": "ਮੁਲਾਂਕਣਕਰਤਾ ਦੀ ਭੂਮਿਕਾ"
     }
 }

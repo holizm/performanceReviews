@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "考核周期",
-        "cycles": "考核周期",
+        "developmentAction": "发展行动",
+        "developmentActions": "发展行动",
         "overallScore": "综合评分",
+        "performanceReview": "绩效评估",
         "performanceReviews": "绩效考核",
+        "reviewCriteria": "评估标准",
+        "reviewCriterion": "评估标准",
+        "reviewCycle": "考核周期",
+        "reviewCycles": "考核周期",
         "reviewDate": "考核日期",
+        "reviewRating": "评估等级",
+        "reviewRatings": "评估等级",
         "reviewer": "考核人",
-        "reviewerRole": "考核人角色",
-        "reviews": "考核"
+        "reviewerRole": "考核人角色"
     }
 }

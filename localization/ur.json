@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "جائزے کا دور",
-        "cycles": "جائزے کے ادوار",
+        "developmentAction": "ترقیاتی کارروائی",
+        "developmentActions": "ترقیاتی کارروائیاں",
         "overallScore": "مجموعی اسکور",
+        "performanceReview": "کارکردگی کا جائزہ",
         "performanceReviews": "کارکردگی کے جائزے",
+        "reviewCriteria": "جائزے کے معیارات",
+        "reviewCriterion": "جائزے کا معیار",
+        "reviewCycle": "جائزے کا دور",
+        "reviewCycles": "جائزے کے ادوار",
         "reviewDate": "جائزے کی تاریخ",
+        "reviewRating": "جائزے کی درجہ بندی",
+        "reviewRatings": "جائزے کی درجہ بندیاں",
         "reviewer": "جائزہ لینے والا",
-        "reviewerRole": "جائزہ لینے والے کا کردار",
-        "reviews": "جائزے"
+        "reviewerRole": "جائزہ لینے والے کا کردار"
     }
 }

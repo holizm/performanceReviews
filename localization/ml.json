@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "വിലയിരുത്തൽ ചക്രം",
-        "cycles": "വിലയിരുത്തൽ ചക്രങ്ങൾ",
+        "developmentAction": "വികസന നടപടി",
+        "developmentActions": "വികസന നടപടികൾ",
         "overallScore": "മൊത്തം സ്കോർ",
+        "performanceReview": "പ്രകടന അവലോകനം",
         "performanceReviews": "പ്രകടന വിലയിരുത്തലുകൾ",
+        "reviewCriteria": "അവലോകന മാനദണ്ഡങ്ങൾ",
+        "reviewCriterion": "അവലോകന മാനദണ്ഡം",
+        "reviewCycle": "വിലയിരുത്തൽ ചക്രം",
+        "reviewCycles": "വിലയിരുത്തൽ ചക്രങ്ങൾ",
         "reviewDate": "വിലയിരുത്തൽ തീയതി",
+        "reviewRating": "അവലോകന റേറ്റിംഗ്",
+        "reviewRatings": "അവലോകന റേറ്റിംഗുകൾ",
         "reviewer": "വിലയിരുത്തുന്നയാൾ",
-        "reviewerRole": "വിലയിരുത്തുന്നയാളുടെ ചുമതല",
-        "reviews": "വിലയിരുത്തലുകൾ"
+        "reviewerRole": "വിലയിരുത്തുന്നയാളുടെ ചുമതല"
     }
 }

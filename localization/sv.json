@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Bedömningscykel",
-        "cycles": "Bedömningscykler",
+        "developmentAction": "Utvecklingsåtgärd",
+        "developmentActions": "Utvecklingsåtgärder",
         "overallScore": "Totalpoäng",
+        "performanceReview": "Prestationsbedömning",
         "performanceReviews": "Prestationsbedömningar",
+        "reviewCriteria": "Bedömningskriterier",
+        "reviewCriterion": "Bedömningskriterium",
+        "reviewCycle": "Bedömningscykel",
+        "reviewCycles": "Bedömningscykler",
         "reviewDate": "Bedömningsdatum",
+        "reviewRating": "Bedömningsbetyg",
+        "reviewRatings": "Bedömningsbetyg",
         "reviewer": "Bedömare",
-        "reviewerRole": "Bedömarens roll",
-        "reviews": "Bedömningar"
+        "reviewerRole": "Bedömarens roll"
     }
 }

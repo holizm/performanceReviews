@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Ciclo di valutazione",
-        "cycles": "Cicli di valutazione",
+        "developmentAction": "Azione di sviluppo",
+        "developmentActions": "Azioni di sviluppo",
         "overallScore": "Punteggio complessivo",
+        "performanceReview": "Valutazione delle prestazioni",
         "performanceReviews": "Valutazioni delle prestazioni",
+        "reviewCriteria": "Criteri di valutazione",
+        "reviewCriterion": "Criterio di valutazione",
+        "reviewCycle": "Ciclo di valutazione",
+        "reviewCycles": "Cicli di valutazione",
         "reviewDate": "Data della valutazione",
+        "reviewRating": "Punteggio di valutazione",
+        "reviewRatings": "Punteggi di valutazione",
         "reviewer": "Valutatore",
-        "reviewerRole": "Ruolo del valutatore",
-        "reviews": "Valutazioni"
+        "reviewerRole": "Ruolo del valutatore"
     }
 }

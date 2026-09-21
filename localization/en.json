@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Review cycle",
-        "cycles": "Review cycles",
+        "developmentAction": "Development action",
+        "developmentActions": "Development actions",
         "overallScore": "Overall score",
+        "performanceReview": "Performance review",
         "performanceReviews": "Performance reviews",
+        "reviewCriteria": "Review criteria",
+        "reviewCriterion": "Review criterion",
+        "reviewCycle": "Review cycle",
+        "reviewCycles": "Review cycles",
         "reviewDate": "Review date",
+        "reviewRating": "Review rating",
+        "reviewRatings": "Review ratings",
         "reviewer": "Reviewer",
-        "reviewerRole": "Reviewer role",
-        "reviews": "Reviews"
+        "reviewerRole": "Reviewer role"
     }
 }

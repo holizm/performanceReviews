@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "အကဲဖြတ်ကာလ",
-        "cycles": "အကဲဖြတ်ကာလများ",
+        "developmentAction": "ဖွံ့ဖြိုးရေး လုပ်ဆောင်ချက်",
+        "developmentActions": "ဖွံ့ဖြိုးရေး လုပ်ဆောင်ချက်များ",
         "overallScore": "စုစုပေါင်းရမှတ်",
+        "performanceReview": "စွမ်းဆောင်ရည် သုံးသပ်ချက်",
         "performanceReviews": "စွမ်းဆောင်ရည် အကဲဖြတ်မှုများ",
+        "reviewCriteria": "သုံးသပ်ချက် စံနှုန်းများ",
+        "reviewCriterion": "သုံးသပ်ချက် စံနှုန်း",
+        "reviewCycle": "အကဲဖြတ်ကာလ",
+        "reviewCycles": "အကဲဖြတ်ကာလများ",
         "reviewDate": "အကဲဖြတ်သည့်ရက်",
+        "reviewRating": "သုံးသပ်ချက် အဆင့်",
+        "reviewRatings": "သုံးသပ်ချက် အဆင့်များ",
         "reviewer": "အကဲဖြတ်သူ",
-        "reviewerRole": "အကဲဖြတ်သူ၏ အခန်းကဏ္ဍ",
-        "reviews": "အကဲဖြတ်မှုများ"
+        "reviewerRole": "အကဲဖြတ်သူ၏ အခန်းကဏ္ဍ"
     }
 }

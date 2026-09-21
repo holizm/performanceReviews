@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "የግምገማ ዙር",
-        "cycles": "የግምገማ ዙሮች",
+        "developmentAction": "የልማት እርምጃ",
+        "developmentActions": "የልማት እርምጃዎች",
         "overallScore": "ጠቅላላ ውጤት",
+        "performanceReview": "የአፈጻጸም ግምገማ",
         "performanceReviews": "የአፈጻጸም ግምገማዎች",
+        "reviewCriteria": "የግምገማ መስፈርቶች",
+        "reviewCriterion": "የግምገማ መስፈርት",
+        "reviewCycle": "የግምገማ ዙር",
+        "reviewCycles": "የግምገማ ዙሮች",
         "reviewDate": "የግምገማ ቀን",
+        "reviewRating": "የግምገማ ደረጃ",
+        "reviewRatings": "የግምገማ ደረጃዎች",
         "reviewer": "ገምጋሚ",
-        "reviewerRole": "የገምጋሚ ሚና",
-        "reviews": "ግምገማዎች"
+        "reviewerRole": "የገምጋሚ ሚና"
     }
 }

@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "మూల్యాంకన చక్రం",
-        "cycles": "మూల్యాంకన చక్రాలు",
+        "developmentAction": "అభివృద్ధి చర్య",
+        "developmentActions": "అభివృద్ధి చర్యలు",
         "overallScore": "మొత్తం స్కోరు",
+        "performanceReview": "పనితీరు సమీక్ష",
         "performanceReviews": "పనితీరు మూల్యాంకనాలు",
+        "reviewCriteria": "సమీక్ష ప్రమాణాలు",
+        "reviewCriterion": "సమీక్ష ప్రమాణం",
+        "reviewCycle": "మూల్యాంకన చక్రం",
+        "reviewCycles": "మూల్యాంకన చక్రాలు",
         "reviewDate": "మూల్యాంకన తేదీ",
+        "reviewRating": "సమీక్ష రేటింగ్",
+        "reviewRatings": "సమీక్ష రేటింగ్‌లు",
         "reviewer": "మూల్యాంకనకర్త",
-        "reviewerRole": "మూల్యాంకనకర్త పాత్ర",
-        "reviews": "మూల్యాంకనాలు"
+        "reviewerRole": "మూల్యాంకనకర్త పాత్ర"
     }
 }

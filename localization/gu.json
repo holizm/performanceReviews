@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "મૂલ્યાંકન ચક્ર",
-        "cycles": "મૂલ્યાંકન ચક્રો",
+        "developmentAction": "વિકાસ કાર્યવાહી",
+        "developmentActions": "વિકાસ કાર્યવાહીઓ",
         "overallScore": "એકંદર સ્કોર",
+        "performanceReview": "કામગીરી સમીક્ષા",
         "performanceReviews": "કામગીરી મૂલ્યાંકનો",
+        "reviewCriteria": "સમીક્ષા માપદંડો",
+        "reviewCriterion": "સમીક્ષા માપદંડ",
+        "reviewCycle": "મૂલ્યાંકન ચક્ર",
+        "reviewCycles": "મૂલ્યાંકન ચક્રો",
         "reviewDate": "મૂલ્યાંકન તારીખ",
+        "reviewRating": "સમીક્ષા રેટિંગ",
+        "reviewRatings": "સમીક્ષા રેટિંગ્સ",
         "reviewer": "મૂલ્યાંકનકર્તા",
-        "reviewerRole": "મૂલ્યાંકનકર્તાની ભૂમિકા",
-        "reviews": "મૂલ્યાંકનો"
+        "reviewerRole": "મૂલ્યાંકનકર્તાની ભૂમિકા"
     }
 }

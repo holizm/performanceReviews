@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Hodnoticí cyklus",
-        "cycles": "Hodnoticí cykly",
+        "developmentAction": "Rozvojová akce",
+        "developmentActions": "Rozvojové akce",
         "overallScore": "Celkové skóre",
+        "performanceReview": "Hodnocení výkonu",
         "performanceReviews": "Hodnocení výkonu",
+        "reviewCriteria": "Kritéria hodnocení",
+        "reviewCriterion": "Kritérium hodnocení",
+        "reviewCycle": "Hodnoticí cyklus",
+        "reviewCycles": "Hodnoticí cykly",
         "reviewDate": "Datum hodnocení",
+        "reviewRating": "Známka hodnocení",
+        "reviewRatings": "Známky hodnocení",
         "reviewer": "Hodnotitel",
-        "reviewerRole": "Role hodnotitele",
-        "reviews": "Hodnocení"
+        "reviewerRole": "Role hodnotitele"
     }
 }

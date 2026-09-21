@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "মূল্যায়ন চক্র",
-        "cycles": "মূল্যায়ন চক্রসমূহ",
+        "developmentAction": "উন্নয়ন পদক্ষেপ",
+        "developmentActions": "উন্নয়ন পদক্ষেপসমূহ",
         "overallScore": "সামগ্রিক স্কোর",
+        "performanceReview": "কর্মদক্ষতা পর্যালোচনা",
         "performanceReviews": "কর্মদক্ষতা মূল্যায়ন",
+        "reviewCriteria": "পর্যালোচনা মানদণ্ডসমূহ",
+        "reviewCriterion": "পর্যালোচনা মানদণ্ড",
+        "reviewCycle": "মূল্যায়ন চক্র",
+        "reviewCycles": "মূল্যায়ন চক্রসমূহ",
         "reviewDate": "মূল্যায়নের তারিখ",
+        "reviewRating": "পর্যালোচনা রেটিং",
+        "reviewRatings": "পর্যালোচনা রেটিংসমূহ",
         "reviewer": "মূল্যায়নকারী",
-        "reviewerRole": "মূল্যায়নকারীর ভূমিকা",
-        "reviews": "মূল্যায়নসমূহ"
+        "reviewerRole": "মূল্যায়নকারীর ভূমিকা"
     }
 }

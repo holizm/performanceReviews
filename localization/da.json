@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Vurderingscyklus",
-        "cycles": "Vurderingscyklusser",
+        "developmentAction": "Udviklingstiltag",
+        "developmentActions": "Udviklingstiltag",
         "overallScore": "Samlet score",
+        "performanceReview": "Præstationsvurdering",
         "performanceReviews": "Præstationsvurderinger",
+        "reviewCriteria": "Vurderingskriterier",
+        "reviewCriterion": "Vurderingskriterium",
+        "reviewCycle": "Vurderingscyklus",
+        "reviewCycles": "Vurderingscyklusser",
         "reviewDate": "Vurderingsdato",
+        "reviewRating": "Vurderingskarakter",
+        "reviewRatings": "Vurderingskarakterer",
         "reviewer": "Bedømmer",
-        "reviewerRole": "Bedømmerens rolle",
-        "reviews": "Vurderinger"
+        "reviewerRole": "Bedømmerens rolle"
     }
 }

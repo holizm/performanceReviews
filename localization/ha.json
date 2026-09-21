@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Zagayen kimantawa",
-        "cycles": "Zagayen kimantawa",
+        "developmentAction": "Matakin ci gaba",
+        "developmentActions": "Matakan ci gaba",
         "overallScore": "Jimillar maki",
+        "performanceReview": "Bitar aiki",
         "performanceReviews": "Kimanta aikin ma’aikata",
+        "reviewCriteria": "Ma’aunan bita",
+        "reviewCriterion": "Ma’aunin bita",
+        "reviewCycle": "Zagayen kimantawa",
+        "reviewCycles": "Zagayen kimantawa",
         "reviewDate": "Ranar kimantawa",
+        "reviewRating": "Matsayin bita",
+        "reviewRatings": "Matsayin bita",
         "reviewer": "Mai kimantawa",
-        "reviewerRole": "Matsayin mai kimantawa",
-        "reviews": "Kimantawa"
+        "reviewerRole": "Matsayin mai kimantawa"
     }
 }

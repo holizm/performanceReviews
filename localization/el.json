@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Κύκλος αξιολόγησης",
-        "cycles": "Κύκλοι αξιολόγησης",
+        "developmentAction": "Ενέργεια ανάπτυξης",
+        "developmentActions": "Ενέργειες ανάπτυξης",
         "overallScore": "Συνολική βαθμολογία",
+        "performanceReview": "Αξιολόγηση απόδοσης",
         "performanceReviews": "Αξιολογήσεις απόδοσης",
+        "reviewCriteria": "Κριτήρια αξιολόγησης",
+        "reviewCriterion": "Κριτήριο αξιολόγησης",
+        "reviewCycle": "Κύκλος αξιολόγησης",
+        "reviewCycles": "Κύκλοι αξιολόγησης",
         "reviewDate": "Ημερομηνία αξιολόγησης",
+        "reviewRating": "Βαθμολογία αξιολόγησης",
+        "reviewRatings": "Βαθμολογίες αξιολόγησης",
         "reviewer": "Αξιολογητής",
-        "reviewerRole": "Ρόλος αξιολογητή",
-        "reviews": "Αξιολογήσεις"
+        "reviewerRole": "Ρόλος αξιολογητή"
     }
 }

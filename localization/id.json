@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Siklus penilaian",
-        "cycles": "Siklus penilaian",
+        "developmentAction": "Tindakan pengembangan",
+        "developmentActions": "Tindakan pengembangan",
         "overallScore": "Nilai keseluruhan",
+        "performanceReview": "Tinjauan kinerja",
         "performanceReviews": "Penilaian kinerja",
+        "reviewCriteria": "Kriteria tinjauan",
+        "reviewCriterion": "Kriteria tinjauan",
+        "reviewCycle": "Siklus penilaian",
+        "reviewCycles": "Siklus penilaian",
         "reviewDate": "Tanggal penilaian",
+        "reviewRating": "Peringkat tinjauan",
+        "reviewRatings": "Peringkat tinjauan",
         "reviewer": "Penilai",
-        "reviewerRole": "Peran penilai",
-        "reviews": "Penilaian"
+        "reviewerRole": "Peran penilai"
     }
 }

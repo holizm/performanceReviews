@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "دوره ارزیابی",
-        "cycles": "دوره‌های ارزیابی",
+        "developmentAction": "اقدام توسعه‌ای",
+        "developmentActions": "اقدام‌های توسعه‌ای",
         "overallScore": "امتیاز کلی",
+        "performanceReview": "ارزیابی عملکرد",
         "performanceReviews": "ارزیابی عملکرد",
+        "reviewCriteria": "معیارهای ارزیابی",
+        "reviewCriterion": "معیار ارزیابی",
+        "reviewCycle": "دوره ارزیابی",
+        "reviewCycles": "دوره‌های ارزیابی",
         "reviewDate": "تاریخ ارزیابی",
+        "reviewRating": "امتیاز ارزیابی",
+        "reviewRatings": "امتیازهای ارزیابی",
         "reviewer": "ارزیاب",
-        "reviewerRole": "نقش ارزیاب",
-        "reviews": "ارزیابی‌ها"
+        "reviewerRole": "نقش ارزیاب"
     }
 }

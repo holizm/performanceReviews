@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Siklo ng pagsusuri",
-        "cycles": "Mga siklo ng pagsusuri",
+        "developmentAction": "Aksyon sa pag-unlad",
+        "developmentActions": "Mga aksyon sa pag-unlad",
         "overallScore": "Kabuuang marka",
+        "performanceReview": "Pagsusuri ng pagganap",
         "performanceReviews": "Mga pagsusuri sa pagganap",
+        "reviewCriteria": "Mga pamantayan ng pagsusuri",
+        "reviewCriterion": "Pamantayan ng pagsusuri",
+        "reviewCycle": "Siklo ng pagsusuri",
+        "reviewCycles": "Mga siklo ng pagsusuri",
         "reviewDate": "Petsa ng pagsusuri",
+        "reviewRating": "Rating ng pagsusuri",
+        "reviewRatings": "Mga rating ng pagsusuri",
         "reviewer": "Tagasuri",
-        "reviewerRole": "Tungkulin ng tagasuri",
-        "reviews": "Mga pagsusuri"
+        "reviewerRole": "Tungkulin ng tagasuri"
     }
 }

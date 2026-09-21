@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "รอบการประเมิน",
-        "cycles": "รอบการประเมิน",
+        "developmentAction": "การดำเนินการพัฒนา",
+        "developmentActions": "การดำเนินการพัฒนา",
         "overallScore": "คะแนนรวม",
+        "performanceReview": "การประเมินผลงาน",
         "performanceReviews": "การประเมินผลการปฏิบัติงาน",
+        "reviewCriteria": "เกณฑ์การประเมิน",
+        "reviewCriterion": "เกณฑ์การประเมิน",
+        "reviewCycle": "รอบการประเมิน",
+        "reviewCycles": "รอบการประเมิน",
         "reviewDate": "วันที่ประเมิน",
+        "reviewRating": "คะแนนการประเมิน",
+        "reviewRatings": "คะแนนการประเมิน",
         "reviewer": "ผู้ประเมิน",
-        "reviewerRole": "บทบาทของผู้ประเมิน",
-        "reviews": "การประเมิน"
+        "reviewerRole": "บทบาทของผู้ประเมิน"
     }
 }

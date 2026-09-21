@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Vurderingssyklus",
-        "cycles": "Vurderingssykluser",
+        "developmentAction": "Utviklingstiltak",
+        "developmentActions": "Utviklingstiltak",
         "overallScore": "Samlet poengsum",
+        "performanceReview": "Prestasjonsevaluering",
         "performanceReviews": "Prestasjonssamtaler",
+        "reviewCriteria": "Vurderingskriterier",
+        "reviewCriterion": "Vurderingskriterium",
+        "reviewCycle": "Vurderingssyklus",
+        "reviewCycles": "Vurderingssykluser",
         "reviewDate": "Vurderingsdato",
+        "reviewRating": "Vurderingskarakter",
+        "reviewRatings": "Vurderingskarakterer",
         "reviewer": "Vurderer",
-        "reviewerRole": "Vurdererens rolle",
-        "reviews": "Vurderinger"
+        "reviewerRole": "Vurdererens rolle"
     }
 }

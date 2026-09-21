@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Mzunguko wa tathmini",
-        "cycles": "Mizunguko ya tathmini",
+        "developmentAction": "Hatua ya maendeleo",
+        "developmentActions": "Hatua za maendeleo",
         "overallScore": "Alama ya jumla",
+        "performanceReview": "Tathmini ya utendaji",
         "performanceReviews": "Tathmini za utendaji",
+        "reviewCriteria": "Vigezo vya tathmini",
+        "reviewCriterion": "Kigezo cha tathmini",
+        "reviewCycle": "Mzunguko wa tathmini",
+        "reviewCycles": "Mizunguko ya tathmini",
         "reviewDate": "Tarehe ya tathmini",
+        "reviewRating": "Ukadiriaji wa tathmini",
+        "reviewRatings": "Ukadiriaji wa tathmini",
         "reviewer": "Mtathmini",
-        "reviewerRole": "Jukumu la mtathmini",
-        "reviews": "Tathmini"
+        "reviewerRole": "Jukumu la mtathmini"
     }
 }

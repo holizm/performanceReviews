@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "מחזור הערכה",
-        "cycles": "מחזורי הערכה",
+        "developmentAction": "פעולת פיתוח",
+        "developmentActions": "פעולות פיתוח",
         "overallScore": "ציון כולל",
+        "performanceReview": "הערכת ביצועים",
         "performanceReviews": "הערכות ביצועים",
+        "reviewCriteria": "קריטריוני הערכה",
+        "reviewCriterion": "קריטריון הערכה",
+        "reviewCycle": "מחזור הערכה",
+        "reviewCycles": "מחזורי הערכה",
         "reviewDate": "תאריך הערכה",
+        "reviewRating": "דירוג הערכה",
+        "reviewRatings": "דירוגי הערכה",
         "reviewer": "מעריך",
-        "reviewerRole": "תפקיד המעריך",
-        "reviews": "הערכות"
+        "reviewerRole": "תפקיד המעריך"
     }
 }

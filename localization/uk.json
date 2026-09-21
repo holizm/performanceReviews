@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Цикл оцінювання",
-        "cycles": "Цикли оцінювання",
+        "developmentAction": "Дія з розвитку",
+        "developmentActions": "Дії з розвитку",
         "overallScore": "Загальна оцінка",
+        "performanceReview": "Оцінка ефективності",
         "performanceReviews": "Оцінювання ефективності",
+        "reviewCriteria": "Критерії оцінки",
+        "reviewCriterion": "Критерій оцінки",
+        "reviewCycle": "Цикл оцінювання",
+        "reviewCycles": "Цикли оцінювання",
         "reviewDate": "Дата оцінювання",
+        "reviewRating": "Рейтинг оцінки",
+        "reviewRatings": "Рейтинги оцінки",
         "reviewer": "Оцінювач",
-        "reviewerRole": "Роль оцінювача",
-        "reviews": "Оцінювання"
+        "reviewerRole": "Роль оцінювача"
     }
 }

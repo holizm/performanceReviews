@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "평가 주기",
-        "cycles": "평가 주기",
+        "developmentAction": "개발 조치",
+        "developmentActions": "개발 조치",
         "overallScore": "종합 점수",
+        "performanceReview": "성과 평가",
         "performanceReviews": "성과 평가",
+        "reviewCriteria": "평가 기준",
+        "reviewCriterion": "평가 기준",
+        "reviewCycle": "평가 주기",
+        "reviewCycles": "평가 주기",
         "reviewDate": "평가일",
+        "reviewRating": "평가 등급",
+        "reviewRatings": "평가 등급",
         "reviewer": "평가자",
-        "reviewerRole": "평가자 역할",
-        "reviews": "평가"
+        "reviewerRole": "평가자 역할"
     }
 }

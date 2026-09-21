@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Beoordelingscyclus",
-        "cycles": "Beoordelingscycli",
+        "developmentAction": "Ontwikkelingsactie",
+        "developmentActions": "Ontwikkelingsacties",
         "overallScore": "Totaalscore",
+        "performanceReview": "Prestatiebeoordeling",
         "performanceReviews": "Prestatiebeoordelingen",
+        "reviewCriteria": "Beoordelingscriteria",
+        "reviewCriterion": "Beoordelingscriterium",
+        "reviewCycle": "Beoordelingscyclus",
+        "reviewCycles": "Beoordelingscycli",
         "reviewDate": "Beoordelingsdatum",
+        "reviewRating": "Beoordelingsscore",
+        "reviewRatings": "Beoordelingsscores",
         "reviewer": "Beoordelaar",
-        "reviewerRole": "Rol van beoordelaar",
-        "reviews": "Beoordelingen"
+        "reviewerRole": "Rol van beoordelaar"
     }
 }

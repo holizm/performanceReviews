@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "دورة التقييم",
-        "cycles": "دورات التقييم",
+        "developmentAction": "إجراء تطوير",
+        "developmentActions": "إجراءات التطوير",
         "overallScore": "التقييم الإجمالي",
+        "performanceReview": "مراجعة أداء",
         "performanceReviews": "تقييمات الأداء",
+        "reviewCriteria": "معايير المراجعة",
+        "reviewCriterion": "معيار مراجعة",
+        "reviewCycle": "دورة التقييم",
+        "reviewCycles": "دورات التقييم",
         "reviewDate": "تاريخ التقييم",
+        "reviewRating": "تقييم المراجعة",
+        "reviewRatings": "تقييمات المراجعة",
         "reviewer": "المقيّم",
-        "reviewerRole": "دور المقيّم",
-        "reviews": "التقييمات"
+        "reviewerRole": "دور المقيّم"
     }
 }

@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Értékelési ciklus",
-        "cycles": "Értékelési ciklusok",
+        "developmentAction": "Fejlesztési intézkedés",
+        "developmentActions": "Fejlesztési intézkedések",
         "overallScore": "Összpontszám",
+        "performanceReview": "Teljesítményértékelés",
         "performanceReviews": "Teljesítményértékelések",
+        "reviewCriteria": "Értékelési szempontok",
+        "reviewCriterion": "Értékelési szempont",
+        "reviewCycle": "Értékelési ciklus",
+        "reviewCycles": "Értékelési ciklusok",
         "reviewDate": "Értékelés dátuma",
+        "reviewRating": "Értékelési minősítés",
+        "reviewRatings": "Értékelési minősítések",
         "reviewer": "Értékelő",
-        "reviewerRole": "Értékelő szerepe",
-        "reviews": "Értékelések"
+        "reviewerRole": "Értékelő szerepe"
     }
 }

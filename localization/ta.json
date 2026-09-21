@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "மதிப்பீட்டுச் சுழற்சி",
-        "cycles": "மதிப்பீட்டுச் சுழற்சிகள்",
+        "developmentAction": "மேம்பாட்டு நடவடிக்கை",
+        "developmentActions": "மேம்பாட்டு நடவடிக்கைகள்",
         "overallScore": "ஒட்டுமொத்த மதிப்பெண்",
+        "performanceReview": "செயல்திறன் மதிப்பாய்வு",
         "performanceReviews": "செயல்திறன் மதிப்பீடுகள்",
+        "reviewCriteria": "மதிப்பாய்வு அளவுகோல்கள்",
+        "reviewCriterion": "மதிப்பாய்வு அளவுகோல்",
+        "reviewCycle": "மதிப்பீட்டுச் சுழற்சி",
+        "reviewCycles": "மதிப்பீட்டுச் சுழற்சிகள்",
         "reviewDate": "மதிப்பீட்டுத் தேதி",
+        "reviewRating": "மதிப்பாய்வு மதிப்பீடு",
+        "reviewRatings": "மதிப்பாய்வு மதிப்பீடுகள்",
         "reviewer": "மதிப்பீட்டாளர்",
-        "reviewerRole": "மதிப்பீட்டாளர் பங்கு",
-        "reviews": "மதிப்பீடுகள்"
+        "reviewerRole": "மதிப்பீட்டாளர் பங்கு"
     }
 }

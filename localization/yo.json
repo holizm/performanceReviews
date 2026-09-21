@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Àkókò ìṣàyẹ̀wò",
-        "cycles": "Àwọn àkókò ìṣàyẹ̀wò",
+        "developmentAction": "Ìgbésẹ̀ ìdàgbàsókè",
+        "developmentActions": "Àwọn ìgbésẹ̀ ìdàgbàsókè",
         "overallScore": "Àpapọ̀ àmì",
+        "performanceReview": "Àyẹ̀wò iṣẹ́",
         "performanceReviews": "Ìṣàyẹ̀wò iṣẹ́",
+        "reviewCriteria": "Àwọn àṣàyàn àyẹ̀wò",
+        "reviewCriterion": "Àṣàyàn àyẹ̀wò",
+        "reviewCycle": "Àkókò ìṣàyẹ̀wò",
+        "reviewCycles": "Àwọn àkókò ìṣàyẹ̀wò",
         "reviewDate": "Ọjọ́ ìṣàyẹ̀wò",
+        "reviewRating": "Ìpele àyẹ̀wò",
+        "reviewRatings": "Àwọn ìpele àyẹ̀wò",
         "reviewer": "Olùṣàyẹ̀wò",
-        "reviewerRole": "Ipa olùṣàyẹ̀wò",
-        "reviews": "Àwọn ìṣàyẹ̀wò"
+        "reviewerRole": "Ipa olùṣàyẹ̀wò"
     }
 }

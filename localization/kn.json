@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "ಮೌಲ್ಯಮಾಪನ ಚಕ್ರ",
-        "cycles": "ಮೌಲ್ಯಮಾಪನ ಚಕ್ರಗಳು",
+        "developmentAction": "ಅಭಿವೃದ್ಧಿ ಕ್ರಮ",
+        "developmentActions": "ಅಭಿವೃದ್ಧಿ ಕ್ರಮಗಳು",
         "overallScore": "ಒಟ್ಟಾರೆ ಅಂಕ",
+        "performanceReview": "ಕಾರ್ಯಕ್ಷಮತೆ ವಿಮರ್ಶೆ",
         "performanceReviews": "ಕಾರ್ಯಕ್ಷಮತೆ ಮೌಲ್ಯಮಾಪನಗಳು",
+        "reviewCriteria": "ವಿಮರ್ಶೆ ಮಾನದಂಡಗಳು",
+        "reviewCriterion": "ವಿಮರ್ಶೆ ಮಾನದಂಡ",
+        "reviewCycle": "ಮೌಲ್ಯಮಾಪನ ಚಕ್ರ",
+        "reviewCycles": "ಮೌಲ್ಯಮಾಪನ ಚಕ್ರಗಳು",
         "reviewDate": "ಮೌಲ್ಯಮಾಪನ ದಿನಾಂಕ",
+        "reviewRating": "ವಿಮರ್ಶೆ ರೇಟಿಂಗ್",
+        "reviewRatings": "ವಿಮರ್ಶೆ ರೇಟಿಂಗ್‌ಗಳು",
         "reviewer": "ಮೌಲ್ಯಮಾಪಕರು",
-        "reviewerRole": "ಮೌಲ್ಯಮಾಪಕರ ಪಾತ್ರ",
-        "reviews": "ಮೌಲ್ಯಮಾಪನಗಳು"
+        "reviewerRole": "ಮೌಲ್ಯಮಾಪಕರ ಪಾತ್ರ"
     }
 }

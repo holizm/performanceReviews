@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "評価サイクル",
-        "cycles": "評価サイクル",
+        "developmentAction": "育成アクション",
+        "developmentActions": "育成アクション",
         "overallScore": "総合スコア",
+        "performanceReview": "業績評価",
         "performanceReviews": "業績評価",
+        "reviewCriteria": "評価基準",
+        "reviewCriterion": "評価基準",
+        "reviewCycle": "評価サイクル",
+        "reviewCycles": "評価サイクル",
         "reviewDate": "評価日",
+        "reviewRating": "評価レーティング",
+        "reviewRatings": "評価レーティング",
         "reviewer": "評価者",
-        "reviewerRole": "評価者の役割",
-        "reviews": "評価"
+        "reviewerRole": "評価者の役割"
     }
 }

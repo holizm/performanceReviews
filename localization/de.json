@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Beurteilungszyklus",
-        "cycles": "Beurteilungszyklen",
+        "developmentAction": "Entwicklungsmaßnahme",
+        "developmentActions": "Entwicklungsmaßnahmen",
         "overallScore": "Gesamtbewertung",
+        "performanceReview": "Leistungsbeurteilung",
         "performanceReviews": "Leistungsbeurteilungen",
+        "reviewCriteria": "Beurteilungskriterien",
+        "reviewCriterion": "Beurteilungskriterium",
+        "reviewCycle": "Beurteilungszyklus",
+        "reviewCycles": "Beurteilungszyklen",
         "reviewDate": "Beurteilungsdatum",
+        "reviewRating": "Beurteilungsbewertung",
+        "reviewRatings": "Beurteilungsbewertungen",
         "reviewer": "Beurteiler",
-        "reviewerRole": "Rolle des Beurteilers",
-        "reviews": "Beurteilungen"
+        "reviewerRole": "Rolle des Beurteilers"
     }
 }

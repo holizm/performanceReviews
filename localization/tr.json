@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Değerlendirme dönemi",
-        "cycles": "Değerlendirme dönemleri",
+        "developmentAction": "Gelişim eylemi",
+        "developmentActions": "Gelişim eylemleri",
         "overallScore": "Genel puan",
+        "performanceReview": "Performans değerlendirmesi",
         "performanceReviews": "Performans değerlendirmeleri",
+        "reviewCriteria": "Değerlendirme ölçütleri",
+        "reviewCriterion": "Değerlendirme ölçütü",
+        "reviewCycle": "Değerlendirme dönemi",
+        "reviewCycles": "Değerlendirme dönemleri",
         "reviewDate": "Değerlendirme tarihi",
+        "reviewRating": "Değerlendirme puanı",
+        "reviewRatings": "Değerlendirme puanları",
         "reviewer": "Değerlendiren",
-        "reviewerRole": "Değerlendirenin rolü",
-        "reviews": "Değerlendirmeler"
+        "reviewerRole": "Değerlendirenin rolü"
     }
 }

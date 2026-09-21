@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Cykl oceny",
-        "cycles": "Cykle oceny",
+        "developmentAction": "Działanie rozwojowe",
+        "developmentActions": "Działania rozwojowe",
         "overallScore": "Ocena ogólna",
+        "performanceReview": "Ocena wyników",
         "performanceReviews": "Oceny pracownicze",
+        "reviewCriteria": "Kryteria oceny",
+        "reviewCriterion": "Kryterium oceny",
+        "reviewCycle": "Cykl oceny",
+        "reviewCycles": "Cykle oceny",
         "reviewDate": "Data oceny",
+        "reviewRating": "Ocena przeglądu",
+        "reviewRatings": "Oceny przeglądu",
         "reviewer": "Oceniający",
-        "reviewerRole": "Rola oceniającego",
-        "reviews": "Oceny"
+        "reviewerRole": "Rola oceniającego"
     }
 }

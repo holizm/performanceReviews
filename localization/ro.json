@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Ciclu de evaluare",
-        "cycles": "Cicluri de evaluare",
+        "developmentAction": "Acțiune de dezvoltare",
+        "developmentActions": "Acțiuni de dezvoltare",
         "overallScore": "Scor general",
+        "performanceReview": "Evaluare a performanței",
         "performanceReviews": "Evaluări de performanță",
+        "reviewCriteria": "Criterii de evaluare",
+        "reviewCriterion": "Criteriu de evaluare",
+        "reviewCycle": "Ciclu de evaluare",
+        "reviewCycles": "Cicluri de evaluare",
         "reviewDate": "Data evaluării",
+        "reviewRating": "Calificativ de evaluare",
+        "reviewRatings": "Calificative de evaluare",
         "reviewer": "Evaluator",
-        "reviewerRole": "Rolul evaluatorului",
-        "reviews": "Evaluări"
+        "reviewerRole": "Rolul evaluatorului"
     }
 }

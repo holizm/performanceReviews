@@ -9,7 +9,7 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='performanceReviewsCycle'
+        placeholder='performanceReviewsReviewCycle'
         property='reviewCycle'
         required
     />

@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Arviointijakso",
-        "cycles": "Arviointijaksot",
+        "developmentAction": "Kehitystoimi",
+        "developmentActions": "Kehitystoimet",
         "overallScore": "Kokonaispistemäärä",
+        "performanceReview": "Suoritusarviointi",
         "performanceReviews": "Suoritusarvioinnit",
+        "reviewCriteria": "Arviointikriteerit",
+        "reviewCriterion": "Arviointikriteeri",
+        "reviewCycle": "Arviointijakso",
+        "reviewCycles": "Arviointijaksot",
         "reviewDate": "Arviointipäivä",
+        "reviewRating": "Arvioinnin arvosana",
+        "reviewRatings": "Arvioinnin arvosanat",
         "reviewer": "Arvioija",
-        "reviewerRole": "Arvioijan rooli",
-        "reviews": "Arvioinnit"
+        "reviewerRole": "Arvioijan rooli"
     }
 }

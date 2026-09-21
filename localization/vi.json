@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Chu kỳ đánh giá",
-        "cycles": "Các chu kỳ đánh giá",
+        "developmentAction": "Hành động phát triển",
+        "developmentActions": "Các hành động phát triển",
         "overallScore": "Điểm tổng thể",
+        "performanceReview": "Đánh giá hiệu suất",
         "performanceReviews": "Đánh giá hiệu suất",
+        "reviewCriteria": "Các tiêu chí đánh giá",
+        "reviewCriterion": "Tiêu chí đánh giá",
+        "reviewCycle": "Chu kỳ đánh giá",
+        "reviewCycles": "Các chu kỳ đánh giá",
         "reviewDate": "Ngày đánh giá",
+        "reviewRating": "Xếp hạng đánh giá",
+        "reviewRatings": "Các xếp hạng đánh giá",
         "reviewer": "Người đánh giá",
-        "reviewerRole": "Vai trò người đánh giá",
-        "reviews": "Các đánh giá"
+        "reviewerRole": "Vai trò người đánh giá"
     }
 }

@@ -3,11 +3,11 @@ export default [
         children: [
             {
                 path: '/performanceReviews/performanceReview/list',
-                title: 'performanceReviewsReviews',
+                title: 'performanceReviewsPerformanceReviews',
             },
             {
                 path: '/performanceReviews/reviewCycle/list',
-                title: 'performanceReviewsCycles',
+                title: 'performanceReviewsReviewCycles',
             },
         ],
         icon: '360',

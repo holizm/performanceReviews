@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Цикъл на оценяване",
-        "cycles": "Цикли на оценяване",
+        "developmentAction": "Действие за развитие",
+        "developmentActions": "Действия за развитие",
         "overallScore": "Обща оценка",
+        "performanceReview": "Оценка на представянето",
         "performanceReviews": "Оценки на представянето",
+        "reviewCriteria": "Критерии за оценка",
+        "reviewCriterion": "Критерий за оценка",
+        "reviewCycle": "Цикъл на оценяване",
+        "reviewCycles": "Цикли на оценяване",
         "reviewDate": "Дата на оценяване",
+        "reviewRating": "Рейтинг на оценката",
+        "reviewRatings": "Рейтинги на оценката",
         "reviewer": "Оценяващ",
-        "reviewerRole": "Роля на оценяващия",
-        "reviews": "Оценки"
+        "reviewerRole": "Роля на оценяващия"
     }
 }

@@ -6,7 +6,7 @@ import {
 import Form from './form'
 
 const headers = <>
-    <th start>performanceReviewsCycle</th>
+    <th start>performanceReviewsReviewCycle</th>
     <th>performanceReviewsStartDate</th>
     <th>performanceReviewsEndDate</th>
     <th>stateMachinesState</th>

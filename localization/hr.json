@@ -1,12 +1,18 @@
 {
     "common": {
-        "cycle": "Ciklus ocjenjivanja",
-        "cycles": "Ciklusi ocjenjivanja",
+        "developmentAction": "Razvojna aktivnost",
+        "developmentActions": "Razvojne aktivnosti",
         "overallScore": "Ukupna ocjena",
+        "performanceReview": "Ocjena učinka",
         "performanceReviews": "Ocjene radnog učinka",
+        "reviewCriteria": "Kriteriji ocjene",
+        "reviewCriterion": "Kriterij ocjene",
+        "reviewCycle": "Ciklus ocjenjivanja",
+        "reviewCycles": "Ciklusi ocjenjivanja",
         "reviewDate": "Datum ocjenjivanja",
+        "reviewRating": "Ocjena pregleda",
+        "reviewRatings": "Ocjene pregleda",
         "reviewer": "Ocjenjivač",
-        "reviewerRole": "Uloga ocjenjivača",
-        "reviews": "Ocjene"
+        "reviewerRole": "Uloga ocjenjivača"
     }
 }
