@@ -1,5 +1,3 @@
 import { Part } from 'panel'
 
-export default <Part
-    title='performanceReviewsPerformanceReviews'
-/>
+export default <Part />
