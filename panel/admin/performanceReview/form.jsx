@@ -9,19 +9,16 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='reviewCycle'
-        property='reviewCycle'
+        required
+        reviewCycle
+    />
+    <Text
+        employee
         required
     />
     <Text
-        placeholder='employee'
-        property='employee'
         required
-    />
-    <Text
-        placeholder='reviewer'
-        property='reviewer'
-        required
+        reviewer
     />
     <Select
         options={[
@@ -32,21 +29,12 @@ const inputs = <>
             'customer',
         ]}
         placeholder='reviewerRole'
-        property='reviewParticipantRole'
         required
+        reviewParticipantRole
     />
-    <DateTime
-        placeholder='reviewDate'
-        property='reviewDate'
-    />
-    <Numeric
-        placeholder='overallScore'
-        property='overallScore'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <DateTime reviewDate />
+    <Numeric overallScore />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
