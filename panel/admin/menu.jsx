@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/performanceReviews/performanceReview/list',
-                title: 'performanceReviewsPerformanceReviews',
+                title: 'performanceReviews',
             },
             {
                 path: '/performanceReviews/reviewCycle/list',
-                title: 'performanceReviewsReviewCycles',
+                title: 'reviewCycles',
             },
         ],
         icon: '360',
         path: '/performanceReviews',
-        title: 'performanceReviewsPerformanceReviews',
+        title: 'performanceReviews',
     },
 ]

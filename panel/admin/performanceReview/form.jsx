@@ -9,17 +9,17 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='performanceReviewsReviewCycle'
+        placeholder='reviewCycle'
         property='reviewCycle'
         required
     />
     <Text
-        placeholder='performanceReviewsEmployee'
+        placeholder='employee'
         property='employee'
         required
     />
     <Text
-        placeholder='performanceReviewsReviewer'
+        placeholder='reviewer'
         property='reviewer'
         required
     />
@@ -31,20 +31,20 @@ const inputs = <>
             'report',
             'customer',
         ]}
-        placeholder='performanceReviewsReviewerRole'
+        placeholder='reviewerRole'
         property='reviewParticipantRole'
         required
     />
     <DateTime
-        placeholder='performanceReviewsReviewDate'
+        placeholder='reviewDate'
         property='reviewDate'
     />
     <Numeric
-        placeholder='performanceReviewsOverallScore'
+        placeholder='overallScore'
         property='overallScore'
     />
     <LongText
-        placeholder='coreDescription'
+        placeholder='description'
         property='description'
     />
 </>

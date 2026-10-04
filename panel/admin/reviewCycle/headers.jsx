@@ -1,6 +1,6 @@
 export default <>
-    <th start>performanceReviewsReviewCycle</th>
-    <th>performanceReviewsStartDate</th>
-    <th>performanceReviewsEndDate</th>
-    <th>stateMachinesState</th>
+    <th start>reviewCycle</th>
+    <th>startDate</th>
+    <th>endDate</th>
+    <th>state</th>
 </>

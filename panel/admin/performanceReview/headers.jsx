@@ -1,7 +1,7 @@
 export default <>
-    <th start>performanceReviewsEmployee</th>
-    <th>performanceReviewsReviewer</th>
-    <th>performanceReviewsReviewerRole</th>
-    <th>performanceReviewsReviewDate</th>
-    <th>performanceReviewsOverallScore</th>
+    <th start>employee</th>
+    <th>reviewer</th>
+    <th>reviewerRole</th>
+    <th>reviewDate</th>
+    <th>overallScore</th>
 </>

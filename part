@@ -10,6 +10,8 @@ reviewCycle
     endDate
     state
     description optional
+    uses
+        stateMachines
 performanceReview
     reviewCycle
     employee

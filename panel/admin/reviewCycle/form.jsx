@@ -8,17 +8,17 @@ import {
 const inputs = <>
     <Title />
     <DateTime
-        placeholder='performanceReviewsStartDate'
+        placeholder='startDate'
         property='startDate'
         required
     />
     <DateTime
-        placeholder='performanceReviewsEndDate'
+        placeholder='endDate'
         property='endDate'
         required
     />
     <LongText
-        placeholder='performanceReviewsDescription'
+        placeholder='description'
         property='description'
     />
 </>
