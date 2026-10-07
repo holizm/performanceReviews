@@ -27,7 +27,7 @@ reviewCriterion
     code
     description optional
     unique code
-reviewRating
+reviewRating searchable
     performanceReview
     reviewCriterion
     score realNumber
